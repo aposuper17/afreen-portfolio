@@ -27,8 +27,8 @@
 
   <div class="section">
     <h2>📫 Contact Me</h2>
-    <p>Email: afreen.yourmail@example.com</p>
-    <p>LinkedIn: linkedin.com/in/afreen-md</p>
+    <p>Email: ai.afreendatascientist@gmail.com</p>
+    <p>LinkedIn: linkedin.</p>
   </div>
 </body>
 </html>
